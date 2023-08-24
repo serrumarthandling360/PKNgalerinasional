@@ -1,0 +1,176 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!4v1685473241131!6m8!1m7!1sE1qqleaJfmlZg5_9NHNikA!2m2!1d-6.178423093850087!2d106.8317295668267!3f96.88425999999998!4f0!5f0.7820865974627469
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!4v1685473241131!6m8!1m7!1sE1qqleaJfmlZg5_9NHNikA!2m2!1d-6.178423093850087!2d106.8317295668267!3f96.88425999999998!4f0!5f0.7820865974627469
+
+## Media
+
+### Title
+panorama_628E319A_703A_B42F_41C4_CE5101993CF2.label = GS__8543
+panorama_61D8F3DC_703F_542B_41BA_52F0D08A3529.label = GS__8544
+panorama_61F26D62_7039_4C1F_41B7_50E7D5638863.label = GS__8545
+panorama_63CF3D73_703E_CCFD_41A0_D2FB7F44CC58.label = GS__8546
+panorama_63BF87BF_7039_DC65_41D6_EFA49940C2E3.label = GS__8547
+panorama_634915BA_7037_FC6F_41C5_EE2F4BCCEFE6.label = GS__8548
+panorama_644248F9_7029_F5ED_41AA_FAF626621401.label = GS__8549
+panorama_64CA06D5_702B_DC25_41CB_AA288EF19D95.label = GS__8550
+panorama_66352F50_7029_4C3B_4198_E9B8B569436E.label = GS__8551
+panorama_662CA8B6_7057_7464_41C7_0017CD888ED6.label = GS__8552
+panorama_65B77EA5_7057_4C65_41C7_D8B825355DEC.label = GS__8553
+panorama_65B462E4_7057_D5E4_41CC_AD42475279C7.label = GS__8554
+panorama_65B639AD_7057_F464_41D0_C3EAB5DFE0A6.label = GS__8555
+panorama_65B89E83_7057_CC1C_41B1_178E78F83CE7.label = GS__8556
+panorama_65B5B105_7057_7425_41D3_E250DEDD8054.label = GS__8557
+panorama_65B5F0B9_7056_B46D_41DA_B1E1156D740D.label = GS__8558
+panorama_65B0C901_7056_D41D_41D3_3B703288064B.label = GS__8559
+panorama_65B09F69_7056_CCED_41C5_EF7627494591.label = GS__8560
+panorama_65B376A5_7056_BC65_41DA_811BF2518ED4.label = GS__8561
+panorama_65B08AB2_7059_547F_417B_B547029AFF1D.label = GS__8562
+panorama_65B370D5_7059_5425_418C_3D1278FC59C6.label = GS__8563
+panorama_65B39A3A_7059_B46F_41D4_5D6AC50DA1F5.label = GS__8564
+panorama_65B3FDD2_7059_CC3F_41C1_8B6311A04FD1.label = GS__8565
+panorama_32F0107C_249C_A4C3_41B6_B23D3E3BBC46.label = GS__8811
+panorama_37522862_2474_E4C7_41C1_C51EB77D53A8.label = GS__8815
+panorama_3629BEA1_246C_5C45_41BE_D3B683CF4130.label = GS__8816
+panorama_36EF81E8_246C_67C3_41AA_7460191821DF.label = GS__8817
+panorama_37501460_246C_6CC3_41B1_168A3381E7E9.label = GS__8818
+panorama_317EC48C_246C_EC43_41B4_C08C291EC0F2.label = GS__8819
+panorama_37C8DCAE_2493_FC5F_41C2_1A65A16D39C6.label = GS__8820
+panorama_3FE2862B_24B5_AC45_41BC_491D067657B4.label = GS__8821
+panorama_3C35F99F_24B3_A47D_41B4_6A62C0F7734E.label = GS__8822
+panorama_3D7D69BB_24B5_E445_41B6_27831C651B8D.label = GS__8823
+panorama_3E8C55F1_24BF_AFC5_41AF_14AA3C01A6D0.label = GS__8824
+panorama_65A867DC_6BB6_28F0_41DA_BAE685BCD0D3.label = R0012749
+panorama_67A86B03_6BB6_5957_41C3_3D82736164B4.label = R0012750
+panorama_67A35463_6BB6_6FD0_41CC_0A3EEE075B19.label = R0012751
+panorama_67A30E6A_6BB6_7BD0_41D0_C5A828B1032A.label = R0012752
+panorama_67A2B8B2_6BB6_58B0_41D2_41A5AA62EFDF.label = R0012753
+panorama_67A332FC_6BB6_28B0_41D6_4D0DAF9BAFD0.label = R0012754
+panorama_67A2DD67_6BB6_39D0_419A_869E42A7A87B.label = R0012755
+panorama_67A2E90F_6BB1_D950_41D9_97F1A9A20C12.label = R0012756
+panorama_67A283CF_6BB1_E8D0_4191_DA85E3CB578F.label = R0012757
+panorama_67A2DE9B_6BB1_FB70_41CB_AB622B988F19.label = R0012758
+panorama_67A29926_6BB1_D951_41C1_A4DDAEA62FD7.label = R0012759
+panorama_67A183B2_6BB2_28B0_41C8_E0C258AB5D68.label = R0012760
+panorama_67A17E1C_6BB2_3B71_41D4_17990B1FD574.label = R0012761
+panorama_67A177E1_6BB2_28D0_41C5_463CDA1232FD.label = R0012762
+panorama_67A15C52_6BB2_7FF1_41CA_0D8507EB0D98.label = R0012764
+panorama_67A1F6BD_6BB2_68B3_41CE_D1B7CC88D689.label = R0012765
+panorama_67A18224_6BB2_2B51_4189_0BB5CB7DA70A.label = R0012766
+panorama_30F3F1FF_24F5_61F9_41B9_BCF6DE52A101.label = R0012767
+panorama_67A189C7_6BB2_D8D0_41C0_523D3D187ACD.label = R0012768
+panorama_67AE6358_6BB2_E9F0_41C5_3D2E3C23F1BC.label = R0012769
+panorama_67A19DF3_6BB2_F8B0_41D7_9BF49E551FE2.label = R0012770
+panorama_67AE57DA_6BB2_E8F1_41B7_8B248234DC02.label = R0012771
+panorama_67AE8234_6BB2_2BB0_41B5_391FC0C3CDBE.label = R0012772
+panorama_67AECCAD_6BB2_3F53_41CD_D387BB5B8835.label = R0012773
+panorama_67AEA6C4_6BB2_28D0_41D3_296DBA1A15F2.label = R0012774
+panorama_67AE312E_6BB2_6950_41BA_EF07BE7B165F.label = R0012775
+panorama_67AEDB47_6BB2_79D0_41C1_C1B82708E95D.label = R0012776
+panorama_67AE152F_6BB2_6950_41BB_85AF410570FC.label = R0012777
+panorama_67AE602D_6BB2_2750_41D0_4EB02EB4CA18.label = R0012778
+panorama_67AF6B70_6BB2_39B0_41D9_EE28A0939C5B.label = R0012779
+panorama_67AE06F8_6BB2_28B0_41D1_0183E8C0E02D.label = R0012780
+panorama_67AFF0EF_6BB3_E8D0_4195_8E3A295F1CB3.label = R0012781
+panorama_67AFEB79_6BB3_F9B3_41D4_6DC98AF6D8E5.label = R0012782
+panorama_67AFA5A1_6BB3_E953_41C1_33023C833C34.label = R0012783
+panorama_67AE201B_6BB2_2770_41A0_01B4D414CB79.label = R0012784
+panorama_67AE3A56_6BB2_3BF0_41D2_99CD0D73C102.label = R0012785
+panorama_67AE5429_6BB2_2F50_41D7_F3160EC795AB.label = R0012786
+panorama_67AE9F3D_6BB2_59B3_41D5_C822402F775B.label = R0012787
+panorama_67AEA89A_6BB2_6771_41DA_8BB6D79AAB24.label = R0012788
+panorama_67AEF40F_6BB2_6F50_41D9_2ADF27B3298F.label = R0012789
+panorama_67AD3EFF_6BB2_58B0_41D0_6F96AC8794F0.label = R0012790
+panorama_67AE8890_6BB2_2771_41D7_1B227AE8507A.label = R0012791
+panorama_67AE8268_6BB2_2BD0_41B7_505725F32863.label = R0012792
+panorama_67AEACD0_6BB2_D8F1_41D5_3710FDB1130A.label = R0012793
+panorama_67AD66E9_6BB2_E8D0_4145_C386E8438EEA.label = R0012794
+panorama_67AD6130_6BB2_E9B0_41D4_6F5B439A0544.label = R0012795
+panorama_67AD7B9C_6BB2_D970_41D4_5459B5F5E1B8.label = R0012796
+panorama_67ADB5E4_6BB2_28D1_41D9_8CEDF03E7151.label = R0012797
+panorama_67ADC052_6BB2_27F0_41C0_DB2214524F0C.label = R0012798
+panorama_67AD5A88_6BB2_5B51_41B5_6BD128C96FA2.label = R0012799
+panorama_67AD33F8_6BB2_68B1_41A0_C074A4570288.label = R0012800
+panorama_67AD7DAD_6BB2_7950_41B1_A25A3D4D8705.label = R0012801
+panorama_67AD788C_6BB2_6750_41B2_2D35BEE06DDD.label = R0012802
+panorama_67ACC2A2_6BB2_2B50_4181_6F7ED724D599.label = R0012803
+panorama_67AD1D1E_6BB2_3971_41D3_B95054C45E38.label = R0012804
+panorama_67ACE756_6BB2_29F0_41D4_EFA1BADB17D2.label = R0012805
+panorama_67ACF1A1_6BB1_E950_41A6_5E9F3ABECE58.label = R0012806
+panorama_67AC8B74_6BB1_F9B1_41D3_B04B4D884121.label = R0012807
+panorama_67AC958E_6BB1_E950_41D8_24E6B11C4BD5.label = R0012808
+panorama_67AC7FB5_6BB1_D8B3_41A7_BDDC8183BE19.label = R0012809
+panorama_67A3AA50_6BBE_3BF1_41D9_DB2FF448808A.label = R0012810
+panorama_67A3F49B_6BBE_2F70_41D7_2EDD400A390C.label = R0012811
+panorama_67A3FE5E_6BBE_5BF1_41D1_261169C3AFCB.label = R0012812
+panorama_67A40941_6BBE_79D0_41A3_F8E6F40D4AF9.label = R0012813
+panorama_67A4227D_6BBE_6BB0_41B0_F0A6BC54FCB5.label = R0012814
+panorama_67A4AD3B_6BBE_59B0_41C8_3F9F8B680101.label = R0012815
+panorama_67A40773_6BBE_29B0_41B4_B64CA4CB6C1F.label = R0012816
+panorama_67A4C2C7_6BBE_28D0_41C1_21EC197555FD.label = R0012817
+panorama_67A4DE1A_6BBE_DB71_41D0_BB80711E0637.label = R0012818
+panorama_67A4C888_6BBE_E751_41BF_2507C5820BAA.label = R0012819
+panorama_67A4B396_6BBE_E971_41D3_FB01BBDE3247.label = R0012820
+panorama_67A49F70_6BBE_D9B0_41D1_C71242A4CACF.label = R0012821
+panorama_67A58BE3_6BBE_38D0_41CB_A805A3231E02.label = R0012822
+panorama_67A5D799_6BBE_2973_41D8_9056FF23F6BF.label = R0012823
+panorama_67A5A1F3_6BBE_68B7_41C9_182E53CB5CA1.label = R0012824
+panorama_67A5EC7E_6BBE_7FB1_41C1_D1D8EA005EE9.label = R0012825
+panorama_67A5A631_6BBE_6BB0_41BB_746C2BC5B6F6.label = R0012826
+panorama_67A5A08B_6BBE_2750_41D6_27EC234A2147.label = R0012827
+panorama_67A5EB17_6BBE_3970_41C7_D218580913E5.label = R0012828
+panorama_67A5550D_6BBE_2950_41B0_61E6AB814323.label = R0012829
+panorama_67A58F99_6BBF_D970_41B3_A6A797475AA2.label = R0012830
+panorama_67A539F3_6BBF_F8B0_41D3_BA758035C6D3.label = R0012831
+panorama_67A513EA_6BBF_E8D1_41C3_1106FEFCA02A.label = R0012832
+panorama_67A52D38_6BBF_D9B1_41D5_810466CA55A6.label = R0012833
+
+## Skin
+
+### Button
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = FLOORPLAN
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = FLOORPLAN
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = HOUSE INFO
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = LOCATION
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCATION
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PANORAMA LIST
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = PHOTOALBUM
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = PHOTOS
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = REALTOR
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = REALTOR
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = lorem ipsum
+
+### Image
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_en.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_en.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_en.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_en.jpg
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_en.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_en.png
+
+### Multiline Text
+HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.260000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.140000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.140000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.76vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.670000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vh;font-family:'Bebas Neue Bold';">real estate agent</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9300000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.93vmin;font-family:'Bebas Neue Bold';">john doe</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.51vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.51vmin;font-family:'Bebas Neue Bold';">licensed real estate salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1899999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1899999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1899999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">www.loremipsum.com</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.76vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:4.000000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4vmin;font-family:'Bebas Neue Bold';">GALERI NASIONAL INDONESIA</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.76vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.670000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">Lorem ipsum</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.670000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">dolor sit amet</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.39vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.3000000000000016vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;"> </SPAN><SPAN STYLE="font-size:1.53vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.53vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.050000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10.05vmin;font-family:'Bebas Neue Bold';">john doe</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';">licensed real estate salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.28vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.590000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.590000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.590000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">www.loremipsum.com</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.980000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.730000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">Lorem ipsum</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:9.730000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">dolor sit amet</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.04vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.230000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Galeri Nasional
